@@ -3,9 +3,14 @@
 
 ![]( https://img.shields.io/static/v1?logo=Kubernetes&label=&message=Entrepreneur&color=grey) ![]( https://img.shields.io/static/v1?logo=Android&label=&message=Android&nbsp;Developer&color=grey) ![]( https://img.shields.io/static/v1?label=&message=Healthcare&nbsp;Professional&color=grey) ![]( https://img.shields.io/static/v1?label=&message=Pharmacy&color=grey)
 
+My Work is my Life & life is DIY Project :sunglasses:
 
-
-Passionated with Tech World and 
+## :iphone: Cool Stuffs i build:
+- SMS Drive 
+- Indra Video Chat
+- Pharma Hub
+- i-Save for Instagram
+- Virtual LSD
 
 
 ## Social Media
