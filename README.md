@@ -12,13 +12,13 @@ My Work is my Life & life is DIY Project :sunglasses:
 - [i-Save for Instagram](https://play.google.com/store/apps/details?id=devesh.ephrine.iSave "i-Save for Instagram")
 - [Virtual LSD](https://play.google.com/store/apps/details?id=devesh.ephrine.virtuallsd "Virtual LSD")
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeveshRx&repo=Android-WebRTC-Firebase)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ephrine&repo=Pharma-Hub)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ephrine&repo=QR-Lite)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ephrine&repo=Jinx-Depression-Diagnosis)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeveshRx&repo=Android-WebRTC-Firebase)](https://github.com/DeveshRx/Android-WebRTC-Firebase)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ephrine&repo=Pharma-Hub)](https://github.com/ephrine/Pharma-Hub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ephrine&repo=QR-Lite)](https://github.com/ephrine/QR-Lite)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ephrine&repo=Jinx-Depression-Diagnosis)](https://github.com/ephrine/Jinx-Depression-Diagnosis)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveshRx&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveshRx&show_icons=true&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveshRx&show_icons=true&theme=cobalt)](https://github.com/DeveshRx)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveshRx&show_icons=true&layout=compact&theme=cobalt)](https://github.com/DeveshRx)
 
 
 ## Social Media
