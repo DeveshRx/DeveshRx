@@ -12,6 +12,7 @@ My Work is my Life & life is DIY Project :sunglasses:
 - [Virtual LSD](https://play.google.com/store/apps/details?id=devesh.ephrine.virtuallsd "Virtual LSD")
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeveshRx&repo=QR-Lite)](https://github.com/DeveshRx/QR-Lite)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeveshRx&repo=Text-Master-OCR)](https://github.com/DeveshRx/Text-Master-OCR)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeveshRx&repo=Muzilla-Music-Player)](https://github.com/DeveshRx/Muzilla-Music-Player)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeveshRx&repo=Indra-Android-App)](https://github.com/DeveshRx/Indra-Android-App)
