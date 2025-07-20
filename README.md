@@ -17,7 +17,7 @@ My Work is my Life & life is DIY Project :sunglasses:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeveshRx&repo=Muzilla-Music-Player)](https://github.com/DeveshRx/Muzilla-Music-Player)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeveshRx&repo=Indra-Android-App)](https://github.com/DeveshRx/Indra-Android-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeveshRx&repo=Android-WebRTC-Firebase)](https://github.com/DeveshRx/Android-WebRTC-Firebase)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeveshRx&repo=Pharma-Hub)](https://github.com/DeveshRx/Pharma-Hub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeveshRx&repo=Pharma-Hub-App)](https://github.com/DeveshRx/Pharma-Hub-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeveshRx&repo=Jinx-Depression-Diagnosis-App)](https://github.com/DeveshRx/Jinx-Depression-Diagnosis-App)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveshRx&show_icons=true&theme=cobalt)](https://github.com/DeveshRx)
